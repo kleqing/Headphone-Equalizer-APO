@@ -6,7 +6,7 @@
 
 > **Warning** 
 This is an Equalizer APO preset which is designed for some bluetooth overheads headset or earbuds because some devices although have a stereo quality but on Windows the sound like a CD quality.
-** Only use it if your device audio is suck. Also you can use to improve the audio quality too!**
+**Only use it if your device audio is suck. Also you can use to improve the audio quality too!**
 
 ## Installation
 
