@@ -1,6 +1,7 @@
+<h1 align = "center">
 ![img](./logo.png)
 
-<h1 align = "center">Headphone Equalizer APO</h1>
+Headphone Equalizer APO</h1>
 
 > **Warning** 
 This is an Equalizer APO preset which is designed for some bluetooth overheads headset or earbuds because some devices although have a stereo quality but on Windows the sound like a CD quality.
