@@ -1,4 +1,4 @@
-[img](./logo.png)
+![img](./logo.png)
 
 <h1 align = "center">Headphone Equalizer APO</h1>
 
@@ -11,5 +11,5 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 1. Download the Equalizer APO at [here](https://sourceforge.net/projects/equalizerapo/files/)
 2. After that, a dialog box will be show. And all you have to do is:
 
-[img](./img(guide)/step1.png)
+![img](./img(guide)/step1.png)
  
