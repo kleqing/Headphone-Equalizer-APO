@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="./logo.png" alt="logo" />
+<img src="./logo.png"/>
 
 <h1 >Headphone Equalizer APO</h1>
 </div>
