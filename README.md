@@ -19,4 +19,4 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 
 ![img](./img(guide)/step2.png)
 
-4. Hit OK and **NO REBOOT**
+4. Hit close button and **DO NOT REBOOT*    
