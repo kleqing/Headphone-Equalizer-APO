@@ -10,7 +10,7 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 
 ## Installation
 
-1. Download the Equalizer APO at [here](https://sourceforge.net/projects/equalizerapo/files/)
+1. Download the Equalizer APO at [here](https://sourceforge.net/projects/equalizerapo/files/), and the release preset at [here](https://sourceforge.net/projects/equalizerapo/) and extract it.
 2. After that, a dialog box will be show. And all you have to do is:
 
 ![img](./img(guide)/step1.png)
@@ -20,3 +20,4 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 ![img](./img(guide)/step2.png)
 
 4. Hit close button and **DO NOT REBOOT*    
+5. After that, open the reg file in the folder that you had extracted and edit the `.reg` file.
