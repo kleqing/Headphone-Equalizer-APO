@@ -26,4 +26,15 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 ![img](./img(guide)/step3.png)
 
 - For example of my device: {69a6aaa9-3203-4e06-b5a9-963010536f5f}
-- And replace it with `...` in `.reg` file, then run that file and reboot.
+- And replace it with `...` in `.reg` file, 
+
+![img](./img(guide)/attention.png)
+
+- After that, save the file, close it and run that file then reboot the computer.
+
+## Preset & Optimization
+
+<sumary>Optimization</sumary>
+<details>
+Updating
+</details>
