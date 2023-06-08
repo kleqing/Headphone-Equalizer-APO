@@ -21,3 +21,9 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 
 4. Hit close button and **DO NOT REBOOT*    
 5. After that, open the reg file in the folder that you had extracted and edit the `.reg` file.
+6. **IMPORTANT**: Now you have to find the device id (For exaple: {7......}). You can copy it by go to the `Configurator.exe` in the start menu, and press `Copy device command to clipboard` and paste it to some where you want and copy the device id
+
+![img](./img(guide)/step3.png)
+
+- For example of my device: {69a6aaa9-3203-4e06-b5a9-963010536f5f}
+- And replace it with `...` in `.reg` file, then run that file and reboot.
