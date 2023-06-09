@@ -36,6 +36,6 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 
 
 <details>
-<sumary>Optimization</sumary>
-Updating
+<sumary>Preset</sumary>
+- The Equalizer APO although can impove audio quality but it is not optimized.
 </details>
