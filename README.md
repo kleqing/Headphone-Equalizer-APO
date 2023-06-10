@@ -37,5 +37,11 @@ This is an Equalizer APO preset which is designed for some bluetooth overheads h
 
 <details>
 <sumary>Preset</sumary>
-- The Equalizer APO although can impove audio quality but it is not optimized.
+- The Equalizer APO although can impove audio quality but it is not optimized. To do something to improve the quality, you have to use some presets which will change the game.
+
+- [Here](https://github.com/kleqing) are some presets that I found in the internet that you can see on my repository (I will update more in the future) or you can go to [AutoEQ](https://autoeq.app/) to choose a preset that you want!
+
+- To install a preset, just go to `C:\Program Files\EqualizerAPO\config` and paste the `config.txt` file!
+
+<sumary>Optimization</sumary>
 </details>
